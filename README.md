@@ -13,5 +13,5 @@ To clone this repo, use the following command to grab the TurkServer
 submodule in packages/mizzao:turkserver:
 
 ```
-git clone --recursive https://github.com/VirtualLab/tutorial.git
+git clone --recursive https://github.com/TurkServer/tutorial.git
 ```
